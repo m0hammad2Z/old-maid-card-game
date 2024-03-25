@@ -33,7 +33,7 @@ This project requires Java installed.
   ```bash
     cd old-maid-card-game
   ```
-3. Open the project of the desire version, compile and run.
+3. Compile and run the desire version.
 
 ## License
 
